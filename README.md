@@ -23,7 +23,7 @@ Cette application permet à l’utilisateur de :
 - Sélectionner la cible souhaitée (soit `data_TCEnergy`, soit `data_EC2`).
 - Charger les caractéristiques via une saisie manuelle (une chaîne de valeurs séparées par des virgules) ou un fichier CSV.
 - Charger le modèle correspondant depuis le fichier `.pkl` et réaliser une prédiction basée sur les données fournies.
-
+![Application Overview](assets/energy.png)
 
 ## Prérequis
 
