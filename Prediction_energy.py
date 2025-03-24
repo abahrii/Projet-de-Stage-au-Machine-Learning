@@ -272,6 +272,7 @@ class EnergyBenchmarkingAnalysis:
         return x_train, x_test, y_train, y_test, x_train_std, x_test_std
 
 
+
 class EnergyModeling:
     """
     Classe pour entraîner et évaluer différents modèles de régression.
